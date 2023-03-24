@@ -35,6 +35,10 @@
 # Suas aplicação:
 
  <img style="width: 70px" alt="Vue.js" src="https://media.giphy.com/media/ZIEqJCPv4D93FmUVTG/giphy.gif">
+ 
+ ***
+## <img src="https://media.giphy.com/media/JO9WCVmDMbC0eLSlyV/giphy.gif" align="center" height="70" width="70"> &nbsp;Linguagem Tecnológica do Desafio:
+<img style="width: 120px" alt="Wordpress" src="https://media2.giphy.com/media/jTqfCm1C0BV5fFAYvT/200w.gif?cid=82a1493bcsxifsduha2yt3xs2ab79nots4hblc9i3v3335v5&rid=200w.gif&ct=g">
 
 ---
 ### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Conceito: 
